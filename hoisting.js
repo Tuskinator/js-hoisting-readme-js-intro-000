@@ -10,6 +10,7 @@ function callMe() {
 
 function crazy() {
   // fix the code in here:
+  thisisCrazy();
 
   var thisIsCrazy = function (){
     console.log("hey!!!")
